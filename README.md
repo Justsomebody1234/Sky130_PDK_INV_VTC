@@ -1,4 +1,4 @@
-# Sky130_PDK_INV_VTC
+# Inverter VTC in xschem using Sky130 PDK
 
 ## Intro
 
