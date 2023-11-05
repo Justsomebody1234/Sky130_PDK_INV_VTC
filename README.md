@@ -1,9 +1,7 @@
 # Inverter VTC in xschem using Sky130 PDK
 
-
-This is the guide to vtc for an inverter in xschem using sky 130 pdk pfet's and nfet's.
 ## Intro
-This is the guide to vtc for an inverter in xschem using sky 130 pdk pfet's and nfet's.
+This is the vtc for an inverter in xschem utilizing sky 130 pdk pfets and nfets with variable **W** factor to observe how it affects the inverter's switching point.
 
 ## Inverter 
 
